@@ -1,0 +1,5 @@
+PC1.google.local 108.177.16.0
+PC2.google.local 108.177.16.2
+Smartphone1.google.local 108.177.16.3
+PC1.uvsq.fr 192.168.1.1
+PC2.uvsq.fr 192.168.1.27
